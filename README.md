@@ -1,4 +1,4 @@
-# roadman
+# Roadman
 
 A navigation open source app
 ROADMAN is a mobile navigation app created to assist road users in all cities globally, with transportation prices. It is built to provide local transportation fares and enable both new and old residents in each city plan their various trips from home. 
