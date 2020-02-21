@@ -1,6 +1,12 @@
 # roadman
 
 A navigation open source app
+ROADMAN is a mobile navigation app created to assist road users in all cities globally, with transportation prices. It is built to provide local transportation fares and enable both new and old residents in each city plan their various trips from home. 
+
+Before you leave your home, the app allows you check your starting point and destination and provides you with detailed transport fares for each stop.
+
+During the trip, users can live stream the current road situation to fellow road users within a 20km distance (for example: the traffic or security situation in the area). 
+The app will trigger an hourly notification when users are in motion, requesting to know the current road situation. All streamed videos will be pinned on that location and triggered for users to view once they approach that location. 
 
 All videos can either be saved or deleted after 24hrs depending on the users preference. The app will also suggest music for users in relation to the weather, this will enhance a satisfying trip.
 The app can also suggest the closest resturant. 
