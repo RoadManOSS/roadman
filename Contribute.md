@@ -1,4 +1,4 @@
-#Contribute
+# Contribute
 
 Contributions to this project are released to the public under the project's open source license.
 
@@ -8,11 +8,17 @@ No matter how you want to get involved, we ask that you first learn what's expec
 
 We love pull requests. Here's a quick guide:
 
-We are still in development phase and will appreciate anyone who is willing to be a ##Core ##Contributor by joining our developers team. The contributors guide will be updated frequently as we progress to keep everyone informed on the different stages of the project. 
+We are still in development phase and will appreciate anyone who is willing to be a  __Core Contributor__ by joining our developers team. The contributors guide will be updated frequently as we progress to keep everyone informed on the different stages of the project. 
 
-In the world of openness and inclusion we welcome both Designers, Developers, Data Scientist and AI expert as a Core Contributor.
-#For Designers:
+In the world of openness and inclusion we welcome both Designers, Developers, Data Scientist and AI expert as a **Core Contributor**.
+## For Designers
 We want roadman to have a design pattern that stands out from other navigation applications, in other words, creating a design system that speaks to users 👥 differently. 
 We can use design engineering process to adopt a pattern from the existing navigation app with a sense of enggagment and interactions that works better with our modern day users.
 
-#For Developers both web and Mobile:
+## For Developers both web and Mobile
+Development is ongoing and to join the team of developers, you can either send a mail 📩 <raodmanapp@gmail.com> or drop a comment with your email so we can add you up to slack.
+
+## Data Scientist
+The core function of Roadman is data collection also feeding other users with the same data. 
+We love to work with an expert that can make useful decisions with users collected data.
+Users can contribute with their mobile phone using either Roadman mobile or web version of the application to add local fares of different locations also upload live videos.
