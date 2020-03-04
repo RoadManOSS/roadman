@@ -2,7 +2,7 @@
 
 Contributions to this project are released to the public under the project's open source license.
 
-Everyone is welcome to contribute to Roadman. Contributing doesn't just mean submitting pull requests—there are several ways one can get involved, including answering questions in chat, reporting or trigging issues.
+Everyone is welcome to contribute to Roadman. Contributing doesn't just mean submitting pull requests—there are several ways one can get involved and that includes answering questions in chat, reporting or trigging issues.
 
 No matter how you want to get involved, we ask that you first learn what's expected of anyone who participates in the project by reading the Contributor Covenant Code of Conduct. By participating, you are expected to uphold this code.
 
